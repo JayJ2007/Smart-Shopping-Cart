@@ -112,10 +112,5 @@ hardware/
 ├── components_list.md
 └── pin_connections.md
 
-docs/
-└── project_report.pdf
-
 images/
 └── Project photos and system diagrams
-
-
